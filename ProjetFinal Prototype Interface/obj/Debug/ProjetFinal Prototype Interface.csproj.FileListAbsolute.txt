@@ -1,0 +1,24 @@
+C:\Users\Raphael\OneDrive\Applications de gestion\ProjetFinal Prototype Interface\ProjetFinal Prototype Interface\bin\Debug\ProjetFinal Prototype Interface.exe.config
+C:\Users\Raphael\OneDrive\Applications de gestion\ProjetFinal Prototype Interface\ProjetFinal Prototype Interface\bin\Debug\ProjetFinal Prototype Interface.exe
+C:\Users\Raphael\OneDrive\Applications de gestion\ProjetFinal Prototype Interface\ProjetFinal Prototype Interface\bin\Debug\ProjetFinal Prototype Interface.pdb
+C:\Users\Raphael\OneDrive\Applications de gestion\ProjetFinal Prototype Interface\ProjetFinal Prototype Interface\obj\Debug\ProjetFinal Prototype Interface.csprojResolveAssemblyReference.cache
+C:\Users\Raphael\OneDrive\Applications de gestion\ProjetFinal Prototype Interface\ProjetFinal Prototype Interface\obj\Debug\ProjetFinal_Prototype_Interface.FormAcheterMatchs.resources
+C:\Users\Raphael\OneDrive\Applications de gestion\ProjetFinal Prototype Interface\ProjetFinal Prototype Interface\obj\Debug\ProjetFinal_Prototype_Interface.FormAjouterJoueur.resources
+C:\Users\Raphael\OneDrive\Applications de gestion\ProjetFinal Prototype Interface\ProjetFinal Prototype Interface\obj\Debug\ProjetFinal_Prototype_Interface.FormPrincipal.resources
+C:\Users\Raphael\OneDrive\Applications de gestion\ProjetFinal Prototype Interface\ProjetFinal Prototype Interface\obj\Debug\ProjetFinal_Prototype_Interface.FormRejoindreMatch.resources
+C:\Users\Raphael\OneDrive\Applications de gestion\ProjetFinal Prototype Interface\ProjetFinal Prototype Interface\obj\Debug\ProjetFinal_Prototype_Interface.FormTournois.resources
+C:\Users\Raphael\OneDrive\Applications de gestion\ProjetFinal Prototype Interface\ProjetFinal Prototype Interface\obj\Debug\ProjetFinal_Prototype_Interface.Properties.Resources.resources
+C:\Users\Raphael\OneDrive\Applications de gestion\ProjetFinal Prototype Interface\ProjetFinal Prototype Interface\obj\Debug\ProjetFinal Prototype Interface.csproj.GenerateResource.Cache
+C:\Users\Raphael\OneDrive\Applications de gestion\ProjetFinal Prototype Interface\ProjetFinal Prototype Interface\obj\Debug\ProjetFinal Prototype Interface.exe
+C:\Users\Raphael\OneDrive\Applications de gestion\ProjetFinal Prototype Interface\ProjetFinal Prototype Interface\obj\Debug\ProjetFinal Prototype Interface.pdb
+C:\Users\Raphael\OneDrive\Applications de gestion\ProjetFinal Prototype Interface\ProjetFinal Prototype Interface\obj\Debug\ProjetFinal_Prototype_Interface.FormJoueur.resources
+C:\Users\Raphael\OneDrive\Applications de gestion\ProjetFinal Prototype Interface\ProjetFinal Prototype Interface\obj\Debug\ProjetFinal_Prototype_Interface.FormInscriptionTournoi.resources
+C:\Users\Raphael\OneDrive\Applications de gestion\ProjetFinal Prototype Interface\ProjetFinal Prototype Interface\obj\Debug\ProjetFinal_Prototype_Interface.FormCreerTournoi.resources
+C:\Users\Raphael\OneDrive\Applications de gestion\ProjetFinal Prototype Interface\ProjetFinal Prototype Interface\obj\Debug\ProjetFinal_Prototype_Interface.FormRejoindreTournoi.resources
+C:\Users\Raphael\OneDrive\Applications de gestion\ProjetFinal Prototype Interface\ProjetFinal Prototype Interface\obj\Debug\ProjetFinal_Prototype_Interface.FormEquipe.resources
+C:\Users\Raphael\OneDrive\Applications de gestion\ProjetFinal Prototype Interface\ProjetFinal Prototype Interface\obj\Debug\ProjetFinal_Prototype_Interface.FormStatsEquipe.resources
+C:\Users\Raphael\OneDrive\Applications de gestion\ProjetFinal Prototype Interface\ProjetFinal Prototype Interface\obj\Debug\ProjetFinal_Prototype_Interface.FormRejoindreEquipe.resources
+C:\Users\Raphael\OneDrive\Applications de gestion\ProjetFinal Prototype Interface\ProjetFinal Prototype Interface\obj\Debug\ProjetFinal_Prototype_Interface.FormCreerEquipe.resources
+C:\Users\Raphael\OneDrive\Applications de gestion\ProjetFinal Prototype Interface\ProjetFinal Prototype Interface\obj\Debug\ProjetFinal_Prototype_Interface.FormFacture.resources
+C:\Users\Raphael\OneDrive\Applications de gestion\ProjetFinal Prototype Interface\ProjetFinal Prototype Interface\obj\Debug\ProjetFinal_Prototype_Interface.FormTableauBord.resources
+C:\Users\Raphael\OneDrive\Applications de gestion\ProjetFinal Prototype Interface\ProjetFinal Prototype Interface\obj\Debug\ProjetFinal_Prototype_Interface.FormImprimer.resources
